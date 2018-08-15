@@ -13,3 +13,6 @@ spring:
     jackson:
       default-property-inclusion: non_null
 env: dev
+girl:
+  name: Michell
+  age: 23
