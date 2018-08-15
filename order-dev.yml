@@ -1,3 +1,5 @@
+server:
+  post: 8081
 spring:
   application:
     name: order
