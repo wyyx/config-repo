@@ -12,7 +12,11 @@ spring:
       show-sql: true
     jackson:
       default-property-inclusion: non_null
-
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest 
 env: dev
 girl:
   name: Michell
